@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Admob added to android.R.id.content</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner1_ad_unit_id">ca-app-pub-7073415457168793/9609649461</string>
+</resources>
